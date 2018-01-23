@@ -1,0 +1,13 @@
+{
+  "require": {
+    "ajbdev/authorizenet-php-api": "dev-master"
+  },
+  "autoload": {
+    "classmap": [
+            "app/"
+      ]
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^5"
+  }
+}
